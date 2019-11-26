@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prs_upr_test", "prs_upr_test\prs_upr_test.csproj", "{B8D3D9BC-5650-4069-B9F9-940EDAE07787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D3D9BC-5650-4069-B9F9-940EDAE07787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D3D9BC-5650-4069-B9F9-940EDAE07787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D3D9BC-5650-4069-B9F9-940EDAE07787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D3D9BC-5650-4069-B9F9-940EDAE07787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7089310-2C65-45AD-A116-E1012387E670}
+	EndGlobalSection
+EndGlobal
